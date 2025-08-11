@@ -1,6 +1,6 @@
 # CRUD App - Quote Board 📃
 
-This is a simple full-stack CRUD (Create, Read, Update, Delete) application built as part of a "30 Days 30 Apps" challenge. It features a React frontend and a Node.js backend, allowing users to manage a list of quotes.
+This is a simple full-stack CRUD (Create, Read, Update, Delete) application. It features a React frontend and a Node.js backend, allowing users to manage a list of quotes.
 
 ## ✨ Features
 
