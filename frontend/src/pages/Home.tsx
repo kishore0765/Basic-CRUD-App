@@ -63,7 +63,7 @@ const Home = () => {
 
   return (
     <div className="max-w-lg mx-auto p-4 rounded-md ">
-      <h1 className="text-2xl font-bold mb-5 text-center">Quote-Board 📃</h1>
+      <h1 className="text-2xl font-bold mb-5 text-center">Quote Board 📃</h1>
 
       {/* Add new quote */}
       <div className="flex gap-3 mb-6">
